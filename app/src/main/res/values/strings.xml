@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Visit Greece</string>
+
+
+    <string name="email_address">Email address</string>
+    <string name="password">Password</string>
+    <string name="explore_greece_login_hint">EXPLORE\nGREECE</string>
+    <string name="explore_greece_login_hint_2">with your personal travel guide</string>
+    <string name="login_button">Log in</string>
+
+    <string name="search">filter by region</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="button_review">Submit Review</string>
+    <string name="button_allReviews">See all reviews</string>
+
+    <string name="error_message">Error!</string>
+
+    <string name="your_rating">Your Rating</string>
+    <string name="text_leave_review">Have you visited this place? Leave us a review!</string>
+    <string name="cancel">Cancel</string>
+    <string name="submit">Submit</string>
+
+    <string name="generalErrorDialogTitle">Error</string>
+    <string name="generalErrorDialogMessage">Oops, something went wrong. Please try again.</string>
+
+    <string name="noRatingDialogErrorTitle">Enter rating</string>
+    <string name="noRatingDialogErrorMessage">Please enter a rating to post a review.</string>
+
+    <string name="generalSuccessDialogTitle">Success</string>
+    <string name="submitReviewSuccessDialogTitle">Your review has been successfully posted!</string>
+    <string name="filter">Filter</string>
+
+    <string name="reviewsFor">Reviews for %1$s</string>
+
+
+</resources>
